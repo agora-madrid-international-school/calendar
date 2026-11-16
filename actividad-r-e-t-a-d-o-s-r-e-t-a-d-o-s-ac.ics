@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calforge//calforge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a81ec6c6@calforge
+DTSTAMP:20261116T131526Z
+DTSTART:20261120T083000Z
+DTEND:20261120T133000Z
+SUMMARY:Actividad R.E.T.A.D.O.S. / R.E.T.A.D.O.S. Activity
+DESCRIPTION:Estimadas familias:\n\nOs informamos de que el próximo viernes
+  20 de noviembre\, los alumnos de 1.º de Bachillerato Nacional y 1.º de 
+ Bachillerato Internacional (IB/Diploma) participarán en la actividad R.E.
+ T.A.D.O.S.\, organizada por la Universidad Europea y que tendrá lugar en 
+ nuestro propio centro\, en horario de 9:30 a 14:30 h.\n\nDurante la jornad
+ a\, los alumnos trabajarán en equipo para desarrollar propuestas y soluci
+ ones a diferentes retos relacionados con situaciones que afectan a los ado
+ lescentes en su día a día\, como la salud mental\, la convivencia escola
+ r y el bienestar digital y el uso de la inteligencia artificial.\n\nLa act
+ ividad contará con el acompañamiento de dos coachs de la Universidad Eur
+ opea\, que guiarán a los alumnos durante el desarrollo de la jornada.\n\n
+ Asimismo\, os hacemos llegar la autorización para la captación y difusi
+ ón de imágenes durante el desarrollo de la actividad.\n\nMuchas gracias 
+ por su colaboración.\n\nUn cordial saludo\, Departamento de Orientación.
+ \n\n--------------------------------\n\nDear Families\,\n\nWe would like t
+ o inform you that on Friday\, 20 November\, students in Year 12 National B
+ accalaureate and Year 12 IB Diploma Programme will take part in the R.E.T.
+ A.D.O.S. activity\, organised by Universidad Europea and held at our schoo
+ l from 9:30 am to 2:30 pm.\n\nDuring the event\, students will work in tea
+ ms to develop proposals and solutions to different challenges related to i
+ ssues affecting teenagers in their everyday lives\, such as mental health\
+ , school coexistence and digital wellbeing\, including the use of artifici
+ al intelligence.\n\nThe activity will be supported by two coachs from Univ
+ ersidad Europea\, who will guide the students throughout the session.\n\nW
+ e will also send you an authorisation form for the capture and use of imag
+ es taken during the activity.\n\nThank you for your cooperation.\n\nKind r
+ egards\,\n\nGuidance Department
+LOCATION:Universidad Europea
+END:VEVENT
+END:VCALENDAR

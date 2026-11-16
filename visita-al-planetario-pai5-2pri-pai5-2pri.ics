@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calforge//calforge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a461c66@calforge
+DTSTAMP:20261116T102350Z
+DTSTART:20261119T083000Z
+DTEND:20261119T121500Z
+SUMMARY:Visita al Planetario PAI5 (2PRI) / PAI5 (2PRI) Planetario Field Tri
+ p
+DESCRIPTION:Estimadas familias de 2º de Primaria -PEP 5 \n\nEl próximo ju
+ eves 19 de noviembre\, los alumnos de 2º de Primaria realizarán una visi
+ ta al Planetario de Madrid\, situado en la Avenida del Planetario\, nº16.
+  \n\nLa salida del colegio tendrá lugar a las 9:30 h y regresaremos sobre
+  las 13:15 h. \n\nLa actividad incluye dos propuestas muy interesantes rel
+ acionadas con el conocimiento del espacio y la astronomía: \n\nExposició
+ n: “Artemisa: la magia de la Luna”. \n\nProyección: “POLARIS”. \n
+ \nLos alumnos irán acompañados en todo momento por sus profesoras. \n\nL
+ es recordamos que pueden llevar su botella de agua y un pequeño snack \n\
+ nEstamos seguros de que será una experiencia educativa muy enriquecedora 
+ y motivadora para todos. \n\n Un cordial saludo. \n\nAna Belén Bustillo \
+ n\nDirectora de Primaria \n\nanabelen.bustillo@agoraism.com \n\n \n\nDear 
+ Families of PYP 5 (Primary 2)\, \n\nOn Thursday\, 19 November\, Primary 2 
+ students will visit the Madrid Planetarium\, located at Avenida del Planet
+ ario\, 16. \n\nStudents will leave school at 9:30 a.m. and Will return aro
+ und 1:15 p.m. \n\nThe visit includes two very interesting activities relat
+ ed to space and astronomy: \n\nExhibition: “Artemisa: The Magic of the M
+ oon”. \n\nPlanetarium Show: “POLARIS”. \n\nStudents will be accompan
+ ied by their teachers at all times. \n\nWe would also like to remind you t
+ hat students may bring a water bottle and a small snack. \n\nWe are confid
+ ent that this will be a highly enriching and motivating educational experi
+ ence for all. \n\nKind regards\, \n\nAna Belén Bustillo \nHead of Primary
+  School \nanabelen.bustillo@agoraism.com
+END:VEVENT
+END:VCALENDAR

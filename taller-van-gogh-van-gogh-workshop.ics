@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calforge//calforge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a9d7ac7@calforge
+DTSTAMP:20261117T100534Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:Taller Van Gogh / Van Gogh Workshop
+DESCRIPTION:Estimadas familias de 1º de Primaria-PEP 4 \n\n \n\nNos ponemo
+ s en contacto con vosotros para comunicaros que el martes 24 de noviembre 
+ los alumnos de 1º realizarán un taller sobre Van Gogh en las instalacion
+ es del colegio dirigido por dos talleristas.  La actividad comenzará con 
+ una presentación del famoso pintor que dará paso a una actividad manual 
+ y finalizará con un repaso de todos los puntos aprendidos.  \n\n \n\nEspe
+ remos que esta actividad sea de vuestro agrado. \n\n \n\nRecibid un cordia
+ l saludo\, \n\n \n\nAna Belén Bustillo \n\n \n\nDirectora de Primaria \n\
+ nanabelen.bustillo@agoraism.com \n\n \n\n---------------------------------
+ ------------------------------------ \n\nDear Primary 1\, PYP4\, families\
+ , \n\n \n\nOn Tuesday\, November 24th\, your children will have a Van Gogh
+  workshop at school led by two workshop leaders.  The activity will begin 
+ with a presentation of the famous painter which will give way to a hands-o
+ n activity and will end with a review of all the points learned.   \n\n \n
+ \n \n\nWe hope our students enjoy this activity. \n\n \n\n \n\nBest regard
+ s \n\n \n\nAna Belén Bustillo \n\n \n\nHead of Primary School  \n\nanabel
+ en.bustillo@agoraism.com
+LOCATION:En el colegio / At the School
+END:VEVENT
+END:VCALENDAR
